@@ -36,7 +36,8 @@ endmodule
 SR Flip-Flop Test bench
 
 SIMULATION OUTPUT
-------- paste the output here -------
+
+<img width="1633" height="907" alt="Screenshot 2026-08-19 114844" src="https://github.com/user-attachments/assets/00ff8d00-8472-4f12-9ac3-4c8e5f7bfeac" />
 
 JK Flip-Flop (Non Blocking)
 ```
@@ -53,7 +54,8 @@ endmodule
 JK Flip-Flop Test bench
 
 SIMULATION OUTPUT
-------- paste the output here -------
+<img width="1628" height="906" alt="Screenshot 2026-08-19 115426" src="https://github.com/user-attachments/assets/6dbff31c-acf1-49b2-ba5c-b8785d96c1a9" />
+
 
 D Flip-Flop (Non Blocking)
 ```
@@ -70,7 +72,8 @@ endmodule
 D Flip-Flop Test bench
 
 SIMULATION OUTPUT
-------- paste the output here -------
+<img width="1630" height="925" alt="Screenshot 2026-08-19 134057" src="https://github.com/user-attachments/assets/f8b422dc-2b11-48d6-9bc9-f54232067125" />
+
 
 T Flip-Flop (Non Blocking)
 ```
@@ -87,7 +90,8 @@ endmodule
 T Flip-Flop Test bench
 
 SIMULATION OUTPUT
-------- paste the output here -------
+<img width="1623" height="885" alt="Screenshot 2026-08-19 134711" src="https://github.com/user-attachments/assets/24301b67-6430-4679-acc1-aff71fd4249f" />
+
 
 # RESULT
 All flip-flops (SR, D, JK, T) were successfully simulated using Non blocking statements in Verilog HDL. The outputs matched the expected truth table values, demonstrating correct sequential behavior.
